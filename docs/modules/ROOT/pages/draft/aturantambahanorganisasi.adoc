@@ -30,7 +30,7 @@ Adapun alasan pemberian sanksi sebagai berikut :
 . Apabila Sanksi karantina di sekretariat selama waktu yang ditentukan dan dalam tataran pengurus masih dielakkan maka sanksi dilanjutkan ke resuffle.
 . Apabila Sanksi karantina disekretariat selama waktu yang ditentukan dan dalam tataran anggota masih dielakkan maka sanksi dilanjutkan ke pemberian Sanksi III (pemecatan).
 . Apabila Sanksi reshuffle, masih dielakkan maka sanksi dilanjutkan ke Pemberian Sanksi III (pemecatan).
-. Pemberian Sanksi III (pemecetan) diberikan oleh BPH atas Persetujuan oleh DPO dan Badan Pendiri.
+. Pemberian Sanksi III (pemecetan) diberikan oleh BPH atas Persetujuan oleh DPO atau Badan Pendiri.
 
 == Bab 2 : Pembelaan
 
@@ -66,13 +66,19 @@ Logo COCONUT merupakan logo yang dipakai sejak periode XII sampai batas waktu ya
 .. Pakaian Dinas Lapangan (PDL) hanya digunakan pada saat aktivitas keorganisasian.
 .. Pakaian Dinas Lapangan (PDL) dikenakan oleh Anggota Luar Biasa, Badan Pendiri dan Badan Pengawas
 
-=== Pasal 10 
+=== Pasal 10 Bendera
 
 Bendera hanya digunakan pada aktifitas simbolis organisasi.
 
+=== Pasal 11 Kartu Tanda Anggota(KTA)
+
+.. Kartu Tanda Anggota (KTA) dapat digunakan pada saat aktivitas keorganisasian.
+.. Kartu Tanda Anggota (KTA) dapat digunakan anggota aktif, anggota luar biasa, badan pendiri, dan badan pengawas.
+
+
 == Bab 4 : Rekomendasi Musyawarah Besar
 
-=== Pasal 11
+=== Pasal 12
 
 . Badan pengurus harian memutuskan jangka waktu kepengurusan pada saat Raker.
 . Badan pengurus harian wajib mensosialisasikan konstitusi secara utuh kepada seluruh anggota COCONUT.
@@ -81,12 +87,12 @@ Bendera hanya digunakan pada aktifitas simbolis organisasi.
 
 == Bab 5 : Hari Peringatan
 
-=== Pasal 12 
+=== Pasal 13 
 
 Tanggal 1 April setiap tahunnya di tetapkan sebagai milad COCONUT dan dirangkaikan dengan hari berkabung.
 
 == Bab 6 : Sanksi Musyawarah Besar
 
-=== Pasal 13
+=== Pasal 14
 
-Badan Pengurus Harian (BPH) yang tidak mengikuti keseluruhan rangkaian kegiatan Musyawarah besar (MUBES) tidak diperkenankan mengikuti prosesi pelantikan anggota baru pada periode yang sedang berjalan.
+Badan Pengurus Harian (BPH) yang tidak mengikuti keseluruhan rangkaian kegiatan Musyawarah besar (MUBES) yang alasannya tidak dapat di pertanggung jawabkan tidak diperkenankan mengikuti prosesi pelantikan anggota baru pada periode yang sedang berjalan.
