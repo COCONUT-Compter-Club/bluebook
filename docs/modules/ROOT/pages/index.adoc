@@ -54,10 +54,11 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif dan landasan-landasan 
 - Salsabila Putri
 - Galbi Nadifah
 - Muhammad Syarif
+- Fajrul Islami
 
 
 == Bluebook Version & Release Rate
-Bluebook - v25.1 (20 Juni 2025)
+Bluebook - v25.2 (18 September 2025)
 
 
 Telusuri bagian-bagian ini untuk memahami bagaimana COCONUT mengelola kegiatan (program), mulai dari Now Open, ROOT, Learning, INESA, Onboarding hingga Meeting, semua demi menciptakan dampak bermanfaat yang berkelanjutan.
