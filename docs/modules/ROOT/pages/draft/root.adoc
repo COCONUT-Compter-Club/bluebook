@@ -36,15 +36,40 @@ ROOT menggabungkan Content wajib dan fleksibel untuk memberikan pengalaman belaj
 |===
 
 === Content Fleksibel
+=== Jalur Frontend Engineer
+[cols="1,3",options="header"]
+|===
+|Materi |Penjelasan
+|Fundamental Frontend |Pengenalan konsep dasar pengembangan antarmuka pengguna serta peran frontend dalam sebuah sistem aplikasi.
+|Dasar HTML, CSS, dan JavaScript |Pemahaman struktur halaman web, pengaturan tampilan, serta interaksi pengguna menggunakan teknologi dasar web.
+|UI/UX & Usability |Pemahaman prinsip desain antarmuka yang efektif, mudah digunakan, dan berorientasi pada pengalaman pengguna.
+|===
+
+=== Jalur Backend Engineer
+[cols="1,3",options="header"]
+|===
+|Materi |Penjelasan
+|Fundamental Backend |Pengenalan konsep kerja server, alur data, serta peran backend dalam mendukung aplikasi.
+|Pemrograman Backend |Penerapan logika pemrograman sisi server untuk memproses data dan menjalankan fungsi aplikasi.
+|Database & API |Pemahaman pengelolaan data serta komunikasi antar sistem menggunakan Application Programming Interface (API).
+|===
+
+=== Jalur System Engineer
+[cols="1,3",options="header"]
+|===
+|Materi |Penjelasan
+|Linux OS |Pengenalan dan penggunaan sistem operasi berbasis open-source untuk kebutuhan server dan pengembangan sistem.
+|Jaringan Komputer |Pemahaman dasar konsep jaringan, protokol komunikasi, dan pertukaran data.
+|Git, GitHub & CI/CD |Pemahaman pengelolaan versi kode sumber, kolaborasi tim pengembangan, serta otomatisasi proses integrasi dan distribusi aplikasi untuk menjaga konsistensi, kualitas, dan keandalan sistem.
+|===
+
+==== Materi Pendukung Umum
 [cols="1,3",options="header"]
 |===
 |Materi |Penjelasan
 |Fundamental AI |Dasar-dasar AI dan istilah umum yang digunakan dalam AI.
 |Fundamental IoT |Dasar-dasar IoT, penjelasan dasar dan pemahaman tentang IoT.
-|Fundamental Security | Dasar-dasar keamanan digital. 
-|Linux OS |Penggunaan sistem operasi open-source untuk server dan development.
-|Pemrograman |Pengenalan logika dan struktur pengembangan aplikasi.
-|Roadmap, Git, dan GitHub |Perencanaan karir teknologi dan pengelolaan proyek dengan version control.
+|Fundamental Security | Dasar-dasar keamanan digital.
 |Metodologi Scrum |Pendekatan agile untuk manajemen proyek dan kolaborasi tim.
 |Metode Riset |Pendekatan ilmiah untuk mengidentifikasi masalah dan menyusun solusi.
 |Sejarah Komputer, Jaringan dan Bahasa Pemrograman |Evolusi komputer, jaringan, bahasa program dan paradigma teknologi.
